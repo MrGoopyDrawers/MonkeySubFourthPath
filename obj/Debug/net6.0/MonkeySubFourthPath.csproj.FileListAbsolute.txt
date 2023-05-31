@@ -1,0 +1,12 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\bin\Debug\net6.0\MonkeySubFourthPath.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\bin\Debug\net6.0\MonkeySubFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\MonkeySubFourthPath.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\MonkeySubFourthPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\MonkeySubFourthPath.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\MonkeySubFourthPath.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\MonkeySubFourthPath.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\MonkeySubFourthPath.csproj.CopyComplete
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\MonkeySubFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\refint\MonkeySubFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\MonkeySubFourthPath\obj\Debug\net6.0\ref\MonkeySubFourthPath.dll
