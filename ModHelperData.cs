@@ -3,7 +3,7 @@ namespace MonkeySubFourthPath;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "36.1";
-    public const string Version = "1.0.0";
+    public const string Version = "1.0.1";
     public const string Name = "MonkeySubFourthPath";
 
     public const string Description = "Monkey sub turns to fishing so you can make money and fish up secret attacks?!?!";
